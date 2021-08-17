@@ -22,7 +22,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"I am a Full Stack Developer in training with a background in Mainframe programming and Mathematics Education. I currently attend the UNC Chapel Hill Full Stack Developer coding bootcamp.",
+    "aboutme":"I am a Full Stack Developer in training. I currently attend the UNC Chapel Hill Full Stack Developer coding bootcamp. I entered the professional world as a public high school Mathematics teacher where my logic and anaylitical skills became more refined. After 4 years, I transitioned into the financial industry where I began my career as a Business Analyst for State Employees Credit Union. It was there that I realized I wanted to transition to the development side. I entered an apprenticeship program where I completed a COBOL cerftification through Marist College. Upon completion I was trained to work on the Credit and Debit Card team as an applications developer. In my time as an applications developer, it was reinforced that this is the career for me. I decided to take advantage of being stuck at home, and made an investment in myself: I applied and began the UNC Coding Bootcamp. The UNC Full Stack Development program is a 6 month coding bootcamp based out of the University of North Carolina at Chapel Hill involving 250+ hours of instruction through an extensive curriculum using HTML5, CSS3, JavaScript, jQuery, Git, Node.js, React.js, Express.js, MVC, MySQL, MongoDB, TDD, and cloud application development. I will graduate September 11, 2021 and hope to enter the work force with newfound skills and knowledge.",
     "address":"Raleigh, NC",
     "website":"thompsonel2011@gmail.com",
     "education":[
