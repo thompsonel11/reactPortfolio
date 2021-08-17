@@ -22,9 +22,9 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"I am a Full Stack Developer in training. I currently attend the UNC Chapel Hill Full Stack Developer coding bootcamp.",
+    "aboutme":"I am a Full Stack Developer in training with a background in Mainframe programming and Mathematics Education. I currently attend the UNC Chapel Hill Full Stack Developer coding bootcamp.",
     "address":"Raleigh, NC",
-    "website":"https://thompsonel11.github.io/reactPortfolio/",
+    "website":"thompsonel2011@gmail.com",
     "education":[
       {
         "UniversityName":"The University of North Carolina at Chapel Hill",
@@ -52,15 +52,22 @@ let resumeData = {
       {
         "CompanyName":"State Employees Credit Union",
         "specialization":"Applications Programmer",
-        "MonthOfLeaving":"Current",
+        "MonthOfLeaving":"2019 - Current",
         // "YearOfLeaving":"2018",
         // "Achievements":"Some Achievements"
       },
       {
         "CompanyName":"State Employees Credit Union",
         "specialization":"Business Analyst",
-        "MonthOfLeaving":"August",
-        "YearOfLeaving":"2018",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2018 - 2019",
+        // "Achievements":"Some Achievements"
+      },
+      {
+        "CompanyName":"Wake County Public Schools",
+        "specialization":"Highschool Mathematics Teacher",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2014 - 2018",
         // "Achievements":"Some Achievements"
       }
     ],
