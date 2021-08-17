@@ -325,22 +325,43 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.ajax {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
+  	-moz-animation: ajax 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
+.authentication {
   	width: 55%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
+.ispf {
+   width: 90%;
+   -moz-animation: ajax 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.git {
+   width: 70%;
+   -moz-animation: ajax 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.indexeddb {
+   width: 55%;
+   -moz-animation: illustrator 2s ease;
+   -webkit-animation: illustrator 2s ease;
+}
+.mongodb {
+ width: 80%;
+ -moz-animation: ajax 2s ease;
+ -webkit-animation: photoshop 2s ease;
+}
+
+.handlebars {
   	width: 50%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.CSS {
+.css {
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
@@ -351,7 +372,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 50%;
+  	width: 65%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
