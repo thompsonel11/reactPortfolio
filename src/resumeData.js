@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://thompsonel11.github.io/reactPortfolio/",
     "name": "Liz Thompson",
     "role": "Fullstack Developer",
-    "linkedinId":"elizabeth--thompson",
+    "linkedinId":" https://www.linkedin.com/in/elizabeth--thompson/",
     // "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
