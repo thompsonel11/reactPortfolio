@@ -117,11 +117,6 @@ let resumeData = {
         "imgurl":"/images/portfolio/modals/m-weatherApp2.png",
         "link": "https://thompsonel11.github.io/WeatherDashboard/"
       }
-    //   {
-    //     "name":"project4",
-    //     "description":"mobileapp",
-    //     "imgurl":"images/portfolio/phone.jpg"
-    //   }
     ]
   }
   
