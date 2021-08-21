@@ -6,19 +6,15 @@ export default class ContactUs extends Component {
       <section id="contact">
           <div className="row section-head">
             <div className="ten columns">
-              <p className="lead">
-              Feel free to contact me for any work or suggestions below
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
+              <h4 className="lead">
+              Feel free to contact me for any work or suggestions below: 
+              </h4>
+              <br></br>
+              <h4>LinkedIn :
                   {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside>
+              </h4>
+              <h4>Email: thompsonel2011@gmail.com</h4>
+            </div>
           </div>
         </section>
         );

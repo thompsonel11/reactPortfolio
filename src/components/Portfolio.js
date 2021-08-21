@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import resumeData from '../resumeData';
 
 export default class Porfolio extends Component {
   render() {
