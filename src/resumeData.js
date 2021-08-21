@@ -114,7 +114,7 @@ let resumeData = {
       {
         "name":"Weather Dashboard",
         "description":"A clean, simple app that utilizes HTML, CSS, Bootstrap, Handlebars, QR Code and local storage to recall current and 5-day weather forecasts for any US city.",  
-        "imgurl":"images/portfolio/modals/m-weatherApp2.png",
+        "imgurl":"/images/portfolio/modals/m-weatherApp2.png",
         "link": "https://thompsonel11.github.io/WeatherDashboard/"
       }
     //   {
