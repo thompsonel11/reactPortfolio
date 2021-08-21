@@ -1,9 +1,5 @@
 /*
-=====================================================================
-*   Ceevee v1.0 Default Stylesheet
-*   url: styleshout.com
-*   03-17-2014
-=====================================================================
+=================================================================
 
 TOC:
 a. Webfonts and Icon fonts
@@ -32,9 +28,6 @@ e. Others
 
 /* ------------------------------------------------------------------
 /* b. Reset
-      Adapted from:
-      Normalize.css - https://github.com/necolas/normalize.css/
-      HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
 /* ------------------------------------------------------------------ */
 
 html, body, div, span, object, iframe,
@@ -121,9 +114,6 @@ table {
 
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
-      Adapted from:
-      Skeleton CSS Framework - http://www.getskeleton.com/
-      Typeplate Typographic Starter Kit - http://typeplate.com/
 /* ------------------------------------------------------------------ */
 
 /*  1. Basic  ------------------------------------------------------- */
@@ -149,7 +139,7 @@ body {
    line-height: 30px;
 	color: #838C95;
 
-   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+   -webkit-font-smoothing: antialiased; 
 	-webkit-text-size-adjust: 100%;
 }
 
@@ -178,8 +168,6 @@ p.lead {
    margin-bottom: 18px;
 }
 
-/* for 'em' and 'strong' tags, font-size and line-height should be same with
-the body tag due to rendering problems in some browsers */
 em { font: 15px/30px 'opensans-italic', sans-serif; }
 strong, b { font: 15px/30px 'opensans-bold', sans-serif; }
 small { font-size: 11px; line-height: inherit; }
@@ -218,16 +206,6 @@ blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
 blockquote cite a:visited { color: #8B9798; border: none }
 
-/* ---------------------------------------------------------------------
-/*  Pull Quotes Markup
-/*
-    <aside class="pull-quote">
-		<blockquote>
-			<p></p>
-		</blockquote>
-	 </aside>
-/*
-/* --------------------------------------------------------------------- */
 .pull-quote {
    position: relative;
 	padding: 18px 30px 18px 0px;

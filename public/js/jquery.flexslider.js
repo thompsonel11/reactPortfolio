@@ -1,7 +1,7 @@
 /*
  * jQuery FlexSlider v2.2.0
  * Copyright 2012 WooThemes
- * Contributing Author: Tyler Smith
+ * Contributing Author: Liz Thompson
  */
 ;
 (function ($) {
@@ -16,8 +16,6 @@
     var namespace = slider.vars.namespace,
         msGesture = window.navigator && window.navigator.msPointerEnabled && window.MSGesture,
         touch = (( "ontouchstart" in window ) || msGesture || window.DocumentTouch && document instanceof DocumentTouch) && slider.vars.touch,
-        // depricating this idea, as devices are being released with both of these events
-        //eventType = (touch) ? "touchend" : "click",
         eventType = "click touchend MSPointerUp",
         watchedEvent = "",
         watchedEventClearTimer,
