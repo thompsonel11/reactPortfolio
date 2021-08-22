@@ -16,7 +16,7 @@ export default class Porfolio extends Component {
                 <div className="columns portfolio-item">
                   <a href={item.link} target="_blank" rel="noopener noreferrer">
                   <div className="item-wrap">          
-                      <img src={window.location.origin + `${item.imgurl}`} className="item-img"/>
+                  <img src={`${item.imgurl}`} className="item-img"/>  
                       <div className="overlay">
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
