@@ -374,39 +374,31 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes ajax {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes authentication {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes ispf {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes git {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes indexeddb {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes mongodb {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 100%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 100%;  }
-}
-@-webkit-keyframes wordpress {
+@-webkit-keyframes handlebars {
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
@@ -414,7 +406,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes html5{
   0%   { width: 0px;  }
   100% { width: 100%;  }
 }
